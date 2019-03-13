@@ -1,0 +1,11 @@
+{
+  "avengers": [
+    { id: 1, name: 'Iron Man' },
+    { id: 2, name: 'Caption America' },
+    { id: 3, name: 'Hulk' },
+    { id: 4, name: 'Thor' }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
